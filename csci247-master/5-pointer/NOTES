@@ -1,0 +1,8 @@
+I added this lab because I got some questions about the char***s in the
+minishell project (Unix Development).  I haven't heard back yet if this lab made
+that project easier.
+
+The end of the README file ends by identifing a bug.  The sort functions and
+presented sort in the wrong order.  The 'correct' sollution is the fix the order
+of arguments in sort, but most students do something else.  I should probably
+fix it, but I like seeing what they do.  
